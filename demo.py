@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar 17 19:48:35 2024
+Created on Sun Mar 07 19:48:35 2024
 
 @author: MaxGr
 """
@@ -39,7 +39,7 @@ device = torch.device("cuda")
 import yaml
 
 # File path
-file_path = "OPENAI_API_KEY_hao9.yaml"
+file_path = "OPENAI_API_KEY.yaml"
 
 # Write the API key to the YAML file
 # with open(file_path, "w") as f:
