@@ -5,7 +5,9 @@ Copy/Download the repository, replace the API key in OPENAI_API_KEY.yaml, and ru
 
 
 ## Demonstration
-
+<div align="center">
+    <img src="./Figures/JP_1.gif" alt="Framework" style="width: 60%;">
+</div>
 
 
 
@@ -78,6 +80,16 @@ We compare the VisionGPT with low system sensitivity with the ground truth to ev
 
 <div align="center">
     <img src="./Figures/Figure_9.png" alt="Performance Test" style="width: 60%;">
+</div>
+
+### System Performance & Compatibility
+<div align="center">
+    <img src="./Figures/fps.png" alt="System performance" style="width: 80%;">
+</div>
+
+### Cost Evaluation
+<div align="center">
+    <img src="./Figures/cost.png" alt="Financial cost test" style="width: 70%;">
 </div>
 
 
