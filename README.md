@@ -1,5 +1,14 @@
 # VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation
 
+## Use
+Copy/Download the repository, replace the API key in OPENAI_API_KEY.yaml, and run the demo.py.
+
+
+## Demonstration
+
+
+
+
 ## Overview
 This project explores the potential of Large Language Models(LLMs) in zero-shot anomaly detection for safe visual navigation. 
 
@@ -31,7 +40,7 @@ for LLMs in video anomaly detection and vision-language understanding.
 We apply the latest Yolo-world for the open-world object detection task to adapt the system in any scenario any situation. 
 
 ### GPT-3.5
-We apply GPT-3.5 for fast response and low cost.
+We apply GPT-3.5 for fast response and low cost. We have tested GPT-4 and GPT-4V but found them not financial-friendly.
 
 
 ### H-splitter
@@ -62,9 +71,6 @@ We compare the VisionGPT with low system sensitivity with the ground truth to ev
 <div align="center">
     <img src="./Figures/Figure_9.png" alt="Performance Test" style="width: 60%;">
 </div>
-
-
-## Demonstration
 
 
 
