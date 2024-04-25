@@ -9,6 +9,7 @@ Copy/Download the repository, replace the API key in OPENAI_API_KEY.yaml, and ru
     <img src="./Figures/JP_1.gif" alt="Framework" style="width: 60%;">
 </div>
 
+See our another project for the movement prediction: <a href="https://github.com/JiayouQin/H-Splitter" target="_blank">H-Splitter</a>
 
 
 ## Overview
